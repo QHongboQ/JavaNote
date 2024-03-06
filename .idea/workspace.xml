@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="330dfc75-31a6-4d41-854b-9b0fb8dc3029" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2cjff8BRFk44ZaDUKGOVm1ltcJT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Debug",
+    "Application.Note.executor": "Run",
+    "Application.zY.executor": "Run",
+    "Application.zyBook_1_6.executor": "Run",
+    "Application.zyBook_2_1.executor": "Run",
+    "Application.zyBook_2_10.executor": "Run",
+    "Application.zyBook_2_11.executor": "Run",
+    "Application.zyBook_2_13.executor": "Run",
+    "Application.zyBook_2_4.executor": "Run",
+    "Application.zyBook_2_4_2.executor": "Run",
+    "Application.zyBook_2_8.executor": "Run",
+    "Application.zyBook_30_6.executor": "Debug",
+    "Application.zyBook_3_10.executor": "Run",
+    "Application.zyBook_3_3.executor": "Run",
+    "Application.zyBook_3_5.executor": "Run",
+    "Application.zyBook_3_6.executor": "Run",
+    "Application.zyBook_3_8.executor": "Run",
+    "Application.zyBook_4_10_3.executor": "Run",
+    "Application.zyBook_4_10_4.executor": "Run",
+    "Application.zyBook_4_10_5.executor": "Run",
+    "Application.zyBook_4_10_6.executor": "Run",
+    "Application.zyBook_4_10_7.executor": "Run",
+    "Application.zyBook_4_13_1.executor": "Debug",
+    "Application.zyBook_4_13_3.executor": "Run",
+    "Application.zyBook_4_13_4.executor": "Run",
+    "Application.zyBook_4_16_1.executor": "Run",
+    "Application.zyBook_4_1_1.executor": "Run",
+    "Application.zyBook_4_1_2.executor": "Run",
+    "Application.zyBook_4_1_3.executor": "Debug",
+    "Application.zyBook_4_22_14.executor": "Run",
+    "Application.zyBook_4_3_2.executor": "Run",
+    "Application.zyBook_4_3_3.executor": "Debug",
+    "Application.zyBook_4_3_4.executor": "Run",
+    "Application.zyBook_4_4_2.executor": "Run",
+    "Application.zyBook_4_5_1.executor": "Run",
+    "Application.zyBook_4_5_3.executor": "Debug",
+    "Application.zyBook_4_9_1.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "create.test.in.the.same.root": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/NoSystemFile/JavaProject/ClassCS003B",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/非系统文件/JavaProject/test/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="330dfc75-31a6-4d41-854b-9b0fb8dc3029" name="Changes" comment="" />
+      <created>1708630014707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708630014707</updated>
+      <workItem from="1708630015734" duration="2208000" />
+      <workItem from="1708644972556" duration="609000" />
+      <workItem from="1708744061712" duration="1288000" />
+      <workItem from="1708796064033" duration="49000" />
+      <workItem from="1708796221305" duration="1838000" />
+      <workItem from="1708798072003" duration="8043000" />
+      <workItem from="1708842725696" duration="3595000" />
+      <workItem from="1708884006375" duration="4334000" />
+      <workItem from="1708889361688" duration="232000" />
+      <workItem from="1709222525717" duration="3781000" />
+      <workItem from="1709254633686" duration="3824000" />
+      <workItem from="1709263649269" duration="6226000" />
+      <workItem from="1709271064829" duration="145000" />
+      <workItem from="1709271453276" duration="2849000" />
+      <workItem from="1709274724465" duration="8000" />
+      <workItem from="1709342087336" duration="7000" />
+      <workItem from="1709352416513" duration="7000" />
+      <workItem from="1709398857192" duration="120000" />
+      <workItem from="1709399962004" duration="12676000" />
+      <workItem from="1709413840095" duration="8073000" />
+      <workItem from="1709433378403" duration="615000" />
+      <workItem from="1709435440656" duration="3104000" />
+      <workItem from="1709443280206" duration="3407000" />
+      <workItem from="1709448627203" duration="13000" />
+      <workItem from="1709489510866" duration="404000" />
+      <workItem from="1709522684108" duration="952000" />
+      <workItem from="1709581595741" duration="68000" />
+      <workItem from="1709614476129" duration="1098000" />
+      <workItem from="1709617165552" duration="29000" />
+      <workItem from="1709655630129" duration="5437000" />
+      <workItem from="1709661452837" duration="78000" />
+      <workItem from="1709670609890" duration="1116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

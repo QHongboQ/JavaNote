@@ -1,5 +1,6 @@
 # JavaNote
-Personal Java Note from the beginning.
+Personal Java Note from the beginning with some experience of other code language.
+
 It's for Pasadena City College, class CS 003B.
 
 Using IDE IntelliJ IDEA, which is a free source for every student.
